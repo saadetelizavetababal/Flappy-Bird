@@ -1,7 +1,5 @@
 # Flappy Bird Clone
 
-![Game Screenshot](/Assets/Screenshots/gameplay.png) <!-- Add your screenshot path -->
-
 A classic Flappy Bird clone built with Unity, featuring:
 - Smooth bird physics
 - Animated wing mechanics
@@ -57,3 +55,7 @@ Assets/
 
 ## 📜 License
 MIT License - See [LICENSE.md](/LICENSE.md) for details
+
+![Game Screenshot](FlappyBird1.jpg) <!-- Add your screenshot path -->
+![Game Screenshot](FlappyBird2.jpg) <!-- Add your screenshot path -->
+
